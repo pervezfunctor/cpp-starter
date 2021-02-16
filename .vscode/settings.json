@@ -1,6 +1,5 @@
 {
   "files.watcherExclude": {
     "**/target": true
-  },
-  "C_Cpp.errorSquiggles": "Disabled"
+  }
 }
